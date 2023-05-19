@@ -4,6 +4,11 @@ README
 
 This repository contains a Todo List application built using React and Django.
 
+<img width="516" alt="home_page" src="https://github.com/risakatelynt/Todo-List/assets/124533180/e4452c9b-88a9-461e-b9a1-6699c083a2f7">
+
+<img width="432" alt="List" src="https://github.com/risakatelynt/Todo-List/assets/124533180/c2827a56-7bf9-483a-b7e3-6c2f8085c5e0">
+
+
 ## Features
 
 - Create, update, and delete tasks.
