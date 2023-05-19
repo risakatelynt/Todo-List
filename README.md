@@ -58,6 +58,7 @@ python manage.py migrate
 
 ```
 python manage.py runserver
+npm start
 ```
 
 7. Access the application in your browser:
