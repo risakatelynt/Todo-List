@@ -25,7 +25,7 @@ This repository contains a Todo List application built using React and Django.
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/risakatelynt/Todo-List.git
 ```
 
 2. Install the required dependencies:
